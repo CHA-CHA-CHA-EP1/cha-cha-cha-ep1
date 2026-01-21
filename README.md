@@ -11,3 +11,6 @@
     <img src="https://skillicons.dev/icons?i=rust,py,ts,js,go" />
   </a>
 </p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cha-cha-cha-ep1&layout=compact&langs_count=8&card_width=320" />
+</a>
